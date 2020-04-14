@@ -6,23 +6,23 @@
 
 ### 博客首页
 
-![博客首页png](https://github.com/Azusaaa/static/博客首页.png)
+![博客首页png](https://github.com/Azusaaa/Kaij_Blog/blob/master/static/%E5%8D%9A%E5%AE%A2%E9%A6%96%E9%A1%B5.png)
 
 ### 栏目管理
 
-![栏目管理png](https://github.com/Azusaaa/static/栏目管理.png)
+![栏目管理png](https://github.com/Azusaaa/Kaij_Blog/blob/master/static/%E6%A0%8F%E7%9B%AE%E7%AE%A1%E7%90%86.png)
 
 ### 栏目文章
 
-![栏目文章png](https://github.com/Azusaaa/static/栏目文章.png)
+![栏目文章png](https://github.com/Azusaaa/Kaij_Blog/blob/master/static/%E6%A0%8F%E7%9B%AE%E6%96%87%E7%AB%A0.png)
 
 ### 文章详情页
 
-![文章详情页png](https://github.com/Azusaaa/static/文章详情页.png)
+![文章详情页png](https://github.com/Azusaaa/Kaij_Blog/blob/master/static/%E6%96%87%E7%AB%A0%E8%AF%A6%E6%83%85%E9%A1%B5.png)
 
 ### 编辑文章
 
-![编辑文章png](https://github.com/Azusaaa/static/编辑文章.png)
+![编辑文章png](https://github.com/Azusaaa/Kaij_Blog/blob/master/static/%E7%BC%96%E8%BE%91%E6%96%87%E7%AB%A0.png)
 
 ## 技术栈
 
