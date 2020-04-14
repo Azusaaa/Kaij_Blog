@@ -1,21 +1,43 @@
-# kaij_blog
+# Kaij_Blog博客管理系统
 
-> A Vue.js project
+> Kaij Blog是一个基于Vue+SpringBoot框架实现的SPA应用。由于笔者只负责前端部分，故仓库里只展示了前端相关代码
 
-## Build Setup
+## 页面效果展示
 
-``` bash
-# install dependencies
-npm install
+### 博客首页
 
-# serve with hot reload at localhost:8080
-npm run dev
+![博客首页png](https://github.com/Azusaaa/static/博客首页.png)
 
-# build for production with minification
-npm run build
+### 栏目管理
 
-# build for production and view the bundle analyzer report
-npm run build --report
-```
+![栏目管理png](https://github.com/Azusaaa/static/栏目管理.png)
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+### 栏目文章
+
+![栏目文章png](https://github.com/Azusaaa/static/栏目文章.png)
+
+### 文章详情页
+
+![文章详情页png](https://github.com/Azusaaa/static/文章详情页.png)
+
+### 编辑文章
+
+![编辑文章png](https://github.com/Azusaaa/static/编辑文章.png)
+
+## 技术栈
+
+### 前端技术栈
+
+- Vue
+- Vue-Router
+- Axios
+- ElementUI
+- Vue-cli
+
+### 后端技术栈（由负责后端的同学提供
+
+- Java Spring Boot框架
+- Mysql数据库
+- mybatis
+- Spring Security
+- 部分遵循restful接口
